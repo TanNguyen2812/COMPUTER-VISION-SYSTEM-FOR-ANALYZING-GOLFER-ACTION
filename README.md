@@ -1,4 +1,10 @@
 # COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION (My Final Project at Ho Chi Minh University of Technology)
+## Demo: 
+Clicked to watch the videos demo
+https://sites.google.com/view/cv-system-for-golfer
+  
+ 
+
 ## SYSTEM OVERVIEW
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/b5e7ae88-badd-47ef-ad0d-6f1bbf33a56c)
 ### POSE ESTIMATION MODEL
