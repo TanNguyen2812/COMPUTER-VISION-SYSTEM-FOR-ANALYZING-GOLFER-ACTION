@@ -1,5 +1,5 @@
 # COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION 
-(My Final Project at Ho Chi Minh University of Technology)  
+My Final Project at Ho Chi Minh University of Technology
 This project is supported by VAS Corporation.
 ## Demo: 
 Click to watch the videos demo
