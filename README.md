@@ -8,6 +8,10 @@ https://sites.google.com/view/cv-system-for-golfer
 
 ## SYSTEM OVERVIEW
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/b5e7ae88-badd-47ef-ad0d-6f1bbf33a56c)
+### HARDWARE
+![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/ce19809f-bf84-4056-add6-ad48dae1f3b1)
+
+
 ### POSE ESTIMATION MODEL
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/3ea4967b-670c-4f72-8819-12196a358da5)
 ### ACTION SEGMENTATION MODEL
