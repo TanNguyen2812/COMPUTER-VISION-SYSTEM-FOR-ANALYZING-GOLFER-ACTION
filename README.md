@@ -14,6 +14,9 @@ https://sites.google.com/view/cv-system-for-golfer
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/9af1bf50-c953-439e-b269-381180c32c6d)
 ### ERROR DETECTION MODEL
 ![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/d597dc21-f3b7-4500-b260-0ebe6f162c96)
+### TEMPORAL ALIGNMENT MODEL
+![image](https://github.com/TanNguyen2812/COMPUTER-VISION-SYSTEM-FOR-ANALYZING-GOLFER-ACTION/assets/141646071/269f2ce4-74e1-4f84-96d1-73b3eb84aa9a)
+
 ## Training Results 
 
 ### Action Segmentation
